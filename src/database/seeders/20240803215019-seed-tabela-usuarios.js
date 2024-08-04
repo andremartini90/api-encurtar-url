@@ -6,8 +6,8 @@ module.exports = {
     [
         {
           nome: 'Administrador',
-          email:"administradorservice@gmail.com",
-          senha: "b075703a9b30ddc015c6592c76520562",
+          email:"administrador@gmail.com",
+          senha: "86b29aa4132e97f87e0fc92b3630776e",
           dataInativacao: null
         }
     ]);
